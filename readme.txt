@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors:
+Contributors: none
 Donate link: http://ohdoylerules.com/swipejs/
 Tags: slider, swipe, touch, mobile, css3, transitions, responsive, slideshow
 Requires at least: 2.0.2
@@ -50,6 +50,11 @@ The slider uses CSS3 transitions and transforms to move the images. This means y
 1. Default styling with pagination and controls enabled.
 
 == Changelog ==
+
+= 1.0 =
+* Initial release.
+
+== Upgrade Notice ==
 
 = 1.0 =
 * Initial release.
