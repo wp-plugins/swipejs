@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: none
+Contributors: heavyharmony
 Donate link: http://ohdoylerules.com/swipejs/
 Tags: slider, swipe, touch, mobile, css3, transitions, responsive, slideshow
 Requires at least: 2.0.2
